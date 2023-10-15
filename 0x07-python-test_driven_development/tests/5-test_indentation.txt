@@ -1,4 +1,5 @@
 # 5-text_indentation.txt
+# Brennan D Baraban <375@holbertonschool.com>
 
 ================================
 How to Use 5-text_indentation.py
@@ -146,5 +147,3 @@ The paramter ``text`` must be a string. Otherwise, a TypeError is raised.
     >>> text_indentation(None)
     Traceback (most recent call last):
     TypeError: text must be a string
-
-
